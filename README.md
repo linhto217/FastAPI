@@ -1,3 +1,4 @@
+
 # Banking Transactions API
 
 A high-performance REST API built with FastAPI for analyzing banking transaction data with real-time fraud detection capabilities. Designed for production workloads with optimized data loading, precomputed statistics, and a clean service-oriented architecture.
@@ -295,10 +296,8 @@ mypy banking_api --ignore-missing-imports
 - **flake8** ≥6.1.0 - Linting
 - **mypy** ≥1.7.0 - Type checking
 
-## License
 
-MIT License - see [LICENSE](LICENSE) for details.
-
+Auteur : Thuy Linh TO, Jeff SAMEDY 
 ---
 
 **Version**: 1.0.0 | **Python**: 3.12+ | **Framework**: FastAPI
